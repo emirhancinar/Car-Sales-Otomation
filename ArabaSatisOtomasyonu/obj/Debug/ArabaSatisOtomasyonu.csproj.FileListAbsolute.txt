@@ -1,0 +1,16 @@
+D:\3.Sınıf\1.Dönem\Vei Tabanı\Proje\ArabaSatisOtomasyonu\ArabaSatisOtomasyonu\bin\Debug\ArabaSatisOtomasyonu.exe.config
+D:\3.Sınıf\1.Dönem\Vei Tabanı\Proje\ArabaSatisOtomasyonu\ArabaSatisOtomasyonu\bin\Debug\ArabaSatisOtomasyonu.exe
+D:\3.Sınıf\1.Dönem\Vei Tabanı\Proje\ArabaSatisOtomasyonu\ArabaSatisOtomasyonu\bin\Debug\ArabaSatisOtomasyonu.pdb
+D:\3.Sınıf\1.Dönem\Vei Tabanı\Proje\ArabaSatisOtomasyonu\ArabaSatisOtomasyonu\obj\Debug\ArabaSatisOtomasyonu.csproj.AssemblyReference.cache
+D:\3.Sınıf\1.Dönem\Vei Tabanı\Proje\ArabaSatisOtomasyonu\ArabaSatisOtomasyonu\obj\Debug\ArabaSatisOtomasyonu.Properties.Resources.resources
+D:\3.Sınıf\1.Dönem\Vei Tabanı\Proje\ArabaSatisOtomasyonu\ArabaSatisOtomasyonu\obj\Debug\ArabaSatisOtomasyonu.csproj.GenerateResource.cache
+D:\3.Sınıf\1.Dönem\Vei Tabanı\Proje\ArabaSatisOtomasyonu\ArabaSatisOtomasyonu\obj\Debug\ArabaSatisOtomasyonu.csproj.CoreCompileInputs.cache
+D:\3.Sınıf\1.Dönem\Vei Tabanı\Proje\ArabaSatisOtomasyonu\ArabaSatisOtomasyonu\obj\Debug\ArabaSatisOtomasyonu.exe
+D:\3.Sınıf\1.Dönem\Vei Tabanı\Proje\ArabaSatisOtomasyonu\ArabaSatisOtomasyonu\obj\Debug\ArabaSatisOtomasyonu.pdb
+D:\3.Sınıf\1.Dönem\Vei Tabanı\Proje\ArabaSatisOtomasyonu\ArabaSatisOtomasyonu\obj\Debug\ArabaSatisOtomasyonu.ArabaSatisEkrani.resources
+D:\3.Sınıf\1.Dönem\Vei Tabanı\Proje\ArabaSatisOtomasyonu\ArabaSatisOtomasyonu\obj\Debug\ArabaSatisOtomasyonu.Acilis.resources
+D:\3.Sınıf\1.Dönem\Vei Tabanı\Proje\ArabaSatisOtomasyonu\ArabaSatisOtomasyonu\obj\Debug\ArabaSatisOtomasyonu.Yonetici.resources
+D:\3.Sınıf\1.Dönem\Vei Tabanı\Proje\ArabaSatisOtomasyonu\ArabaSatisOtomasyonu\obj\Debug\ArabaSatisOtomasyonu.MarkaIslemleri.resources
+D:\3.Sınıf\1.Dönem\Vei Tabanı\Proje\ArabaSatisOtomasyonu\ArabaSatisOtomasyonu\obj\Debug\ArabaSatisOtomasyonu.FiyatIslemleri.resources
+D:\3.Sınıf\1.Dönem\Vei Tabanı\Proje\ArabaSatisOtomasyonu\ArabaSatisOtomasyonu\obj\Debug\ArabaSatisOtomasyonu.ModelIslemleri.resources
+D:\3.Sınıf\1.Dönem\Vei Tabanı\Proje\ArabaSatisOtomasyonu\ArabaSatisOtomasyonu\obj\Debug\ArabaSatisOtomasyonu.SatisIstatistikleri.resources
